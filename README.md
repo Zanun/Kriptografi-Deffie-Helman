@@ -1,4 +1,4 @@
-# Kriptografi-Deffie-Helman-
+# Kriptografi-Deffie-Helman
 dibuat untuk menyelesaikan laporan c++
 
 Ketua : Adzanun Muhammad Furqon (18.83.0252) <br>
